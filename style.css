@@ -1,0 +1,89 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.pt-5, .py-5 {
+    padding-top: 0px;
+}
+
+.foto-perfil{
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    border-radius: 50%;
+    padding-top: 10px;
+}
+
+.btn-group-sm > .btn, .btn-sm {
+    margin-right: 10px;
+}
+
+
+.mb-2, .my-2 {
+    margin-left: 10px;
+}
+
+.corPrimaria, #corPrimaria {
+    background: lightblue;
+}
+
+.corSecundaria {
+    background-color: darkcyan;
+    font-family: 'Mulish', sans-serif;
+}
+
+.navbar-dark, .navbar-nav, .nav-link, .navbar-brand {
+    color: white!important;
+    font-weight: bold ;
+}
+
+.titulo {
+    font-family: 'Sunflower', sans-serif;
+}
+
+p {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.card-text{
+    font-weight: bold;
+}
+
+.container-fluid{
+    padding-bottom: 20px;
+}
+
+.icones{
+    padding-left: 5px;
+}
+
+.jumbotron-heading{
+    padding-bottom: 10px;
+}
+
+.titulosAzul{
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: 700px;
+    color:aqua;
+}
+
+.titulosBrancos{
+    text-transform: uppercase;
+    font-weight: 700px;
+    color:whitesmoke;
+}
+
+.copyright{
+    color: white;
+    margin-top:5px;
+}
+
+.disponivel{
+    padding-block: 60px;
+}
+
+#margem {
+    margin: 2px;
+    padding-block: 0px;
+}
